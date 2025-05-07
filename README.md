@@ -1,4 +1,4 @@
-# Challenge Alura Store - Data Science LATAM
+# Challenge Alura Store - Data Science LATAM ![GitHub Org's stars](https://img.shields.io/github/stars/rogerRueda?style=social)
 
 ## 📊 Descripción del Proyecto
 

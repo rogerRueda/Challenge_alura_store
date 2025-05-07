@@ -2,7 +2,7 @@
 
 ## 📊 Descripción del Proyecto
 
-Este proyecto forma parte del **Challenge de Data Science LATAM** de Alura, donde se realiza un análisis exploratorio de datos de cuatro tiendas online.  
+Este proyecto forma parte del **Challenge de Data Science LATAM** de Alura, donde se realiza un análisis de datos de cuatro tiendas online.  
 El objetivo principal es identificar en cuál tienda el Sr. Juan debería vender sus productos, considerando factores como:
 
 - Ingresos totales
